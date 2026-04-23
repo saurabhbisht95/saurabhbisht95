@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6FD8&center=true&vCenter=true&width=650&lines=Building+intelligent+backend+systems+%F0%9F%9A%80;Turning+data+into+decisions+%F0%9F%A7%A0;Exploring+LLMs+%26+RAG+pipelines+%F0%9F%A4%96;Always+learning%2C+always+shipping+%E2%9C%A8;Passionate+about+AI+%26+Data+Science+%F0%9F%92%9C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6FD8&center=true&vCenter=true&width=650&lines=Crafting+modern+web+experiences+%F0%9F%9A%80;MERN+Stack+Developer+%7C+Full+Stack+Engineer+%F0%9F%92%BB;Building+fast+and+scalable+apps+%F0%9F%94%A5;Always+learning%2C+always+shipping+%E2%9C%A8;Turning+ideas+into+reality+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,18 +15,19 @@
 <img align="right" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="border-radius:16px; margin-left:20px"/>
 
 &nbsp;&nbsp;Hi! I'm **Saurabh**, a software developer who lives at the  
-&nbsp;&nbsp;crossroads of **backend engineering**, **AI/ML**, and **data science**.
+&nbsp;&nbsp;crossroads of **Full Stack**, **Mern Stack**
 
 &nbsp;&nbsp;I love building systems that are not just functional,  
 &nbsp;&nbsp;but genuinely *intelligent* and *scalable*.
 
 <br/>
 
-&nbsp;&nbsp;🔭 &nbsp;Working on **scalable backend systems & AI integrations**  
-&nbsp;&nbsp;🤖 &nbsp;Deep interest in **NLP, LLMs & ML pipelines**  
-&nbsp;&nbsp;🌱 &nbsp;Currently exploring **RAG, MLOps & Vector DBs**  
-&nbsp;&nbsp;💬 &nbsp;Talk to me about **Python, APIs, Data Science**  
-&nbsp;&nbsp;⚡ &nbsp;I make data stories that *non-data people* actually get  
+&nbsp;&nbsp;🔭 &nbsp;Working on **scalable MERN Stack applications**  
+&nbsp;&nbsp;⚛️ &nbsp;Building **React frontends & modern UI/UX**  
+&nbsp;&nbsp;🌐 &nbsp;Developing **REST APIs with Node.js & Express**  
+&nbsp;&nbsp;🗄️ &nbsp;Working with **MongoDB & database design**  
+&nbsp;&nbsp;💬 &nbsp;Talk to me about **JavaScript, React, Node.js**  
+&nbsp;&nbsp;⚡ &nbsp;Turning ideas into real-world web apps 🚀  
 
 <br/>
 
