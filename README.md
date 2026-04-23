@@ -56,7 +56,6 @@
 
 ## 💻 Tech Stack
 
-<br/>
 
 **🌸 Languages**
 
@@ -96,5 +95,46 @@
 ![Git](https://img.shields.io/badge/Git-f97316?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-facc15?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-f97316?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saurabhbisht95&theme=2077" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saurabhbisht95&theme=2077" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhbisht95&hide_border=true&background=0d001a&ring=ff6fd8&fire=f97316&currStreakLabel=ff6fd8&sideLabels=a855f7&dates=e9d5ff&currStreakNum=ffffff&sideNums=ffffff&border_radius=16" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhbisht95&bg_color=0d001a&color=ff6fd8&line=00F5A0&point=38bdf8&area=true&hide_border=true&border_radius=16" width="95%"/>
+
+<br/><br/>
+</div>
+<br/>
+
+---
+
+<br/>
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=saurabhisht95&style=for-the-badge&color=ff6fd8&labelColor=0d001a&label=PROFILE+VIEWS)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,25:38bdf8,50:6366f1,75:a855f7,100:ff6fd8&height=120&section=footer&text=made%20with%20%E2%99%A5%20by%20Saurabh&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
