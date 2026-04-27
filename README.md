@@ -57,7 +57,7 @@
 ## 💻 Tech Stack
 
 
-**🌸 Languages**
+**🌸 Languages **
 
 ![Java](https://img.shields.io/badge/Java-f97316?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-facc15?style=for-the-badge&logo=javascript&logoColor=black)
@@ -66,7 +66,7 @@
 
 <br/>
 
-**🚀 Backend & APIs**
+**🚀 Backend & APIs **
 
 ![REST API](https://img.shields.io/badge/REST%20API-ff6fd8?style=for-the-badge&logo=api&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -74,14 +74,14 @@
 
 <br/>
 
-**🗄️ Databases**
+**🗄️ Databases **
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-ef4444?style=for-the-badge&logo=redis&logoColor=white)
 
 <br/>
 
-**🎨 Frontend**
+**🎨 Frontend **
 
 ![React](https://img.shields.io/badge/React-38bdf8?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-a855f7?style=for-the-badge&logo=next.js&logoColor=white)
@@ -89,7 +89,7 @@
 
 <br/>
 
-**🛠️ DevOps & Tools**
+**🛠️ DevOps & Tools **
 
 ![Docker](https://img.shields.io/badge/Docker-38bdf8?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f97316?style=for-the-badge&logo=git&logoColor=white)
